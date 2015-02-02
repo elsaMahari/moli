@@ -1,2 +1,2 @@
 # moli
-A list of movies using jQuery, HTML5 and CSS3
+A list of movies using jQuery, HTML5 and CSS3.
